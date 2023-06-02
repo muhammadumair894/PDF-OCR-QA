@@ -1,0 +1,5 @@
+transformers==4.24.0
+Pillow==9.0.0
+tesseract-ocr
+docquery
+poppler-utils
